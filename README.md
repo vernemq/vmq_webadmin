@@ -1,4 +1,8 @@
 # VerneMQ Admin Interface
+
+## Status
+* In development, not working for current VerneMQ releases without the needed backend plugin
+  
 ## Limitations
 * Currently, there is no support for authentication and authorization plugins.
 * There is no support for some build-in plugins as bridge.
